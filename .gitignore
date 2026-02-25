@@ -1,0 +1,12 @@
+# JetBrains IDEs
+.idea/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverfile
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
