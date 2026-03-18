@@ -55,7 +55,7 @@ Outside of work, I build side projects for fun - from a real-time multiplayer so
 
 ### 🏅 Certifications
 
-[![AWS Certified Solutions Architect Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/d29c819d-436a-44ce-a92a-22dcb8f89c8e)
+[![AWS Certified Solutions Architect Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/d624b8a1-45a8-4796-a864-5528e17890e2)
 [![AWS Certified AI Practitioner](https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/d29c819d-436a-44ce-a92a-22dcb8f89c8e)
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/396b8289-69b6-4658-ae69-07a91fc1b850)
 
